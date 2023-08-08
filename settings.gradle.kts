@@ -15,4 +15,4 @@ dependencyResolutionManagement {
 
 rootProject.name = "ChobiAdMob"
 include(":app")
- 
+include(":ChobiAdMob")
